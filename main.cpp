@@ -7,8 +7,13 @@ using namespace std;
 
 int main()
 {
-    // project1_main();
+    cout << "Project1: " << endl;
+    project1_main();
+    cout << endl;
+    cout << "Project2: " << endl;    
     project2_main();    
-    
+    cout << endl;
+    cout << "Project3: " << endl;
+    project3_main();
     return 0;
 }
