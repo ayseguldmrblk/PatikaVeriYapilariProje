@@ -45,7 +45,3 @@ This three library files are the representation of the projects assigned at the 
    make clean
    ```
    > Note: This step is optional and can be useful to tidy up after testing.
-
-# Output Screenshot
-
-![Screenshot 2023-08-26 at 23 51 06 (2)](https://github.com/ayseguldmrblk/PatikaVeriYapilariProje/assets/26443239/9fa63c86-1f86-4dcc-9c32-d6811126a429)
