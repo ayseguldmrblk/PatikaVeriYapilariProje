@@ -1,9 +1,9 @@
 CXX = g++
 CXXFLAGS = -std=c++11 -Wall
 
-SRCS = Proje1.cpp
+SRCS = main.cpp
 OBJS = $(SRCS:.cpp=.o)
-EXEC = Proje1
+EXEC = main
 
 all: $(EXEC)
 

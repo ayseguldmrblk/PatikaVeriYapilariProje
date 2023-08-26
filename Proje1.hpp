@@ -38,7 +38,7 @@ void insertionSort(int arr[], int size)
 
 // Overall time complexity is O(n^2) due to nested loops
 // After the array is sorted, searching for 18 will lead us to average case scenario which implies the element is in the middle of the array
-int main() 
+int project1_main() 
 {
     int arr[6] = {22, 27, 16, 2, 18, 6};
     insertionSort(arr, sizeof(arr) / sizeof(arr[0])); 
