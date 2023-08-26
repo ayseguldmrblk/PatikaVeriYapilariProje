@@ -19,7 +19,7 @@ This three library files are the representation of the projects assigned at the 
 1. **Clone the Repository**:
    Clone the repository to your local machine using the following command:
    ```sh
-    git clone [git@github.com:ayseguldmrblk/PatikaVeriYapilariProje.git](https://github.com/ayseguldmrblk/PatikaVeriYapilariProje.git)
+    git clone https://github.com/ayseguldmrblk/PatikaVeriYapilariProje.git
    ```
 
 2. **Navigate to the Project Directory**:
